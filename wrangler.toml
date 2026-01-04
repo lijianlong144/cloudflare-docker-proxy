@@ -39,3 +39,4 @@ MODE = "staging"
 TARGET_UPSTREAM = ""
 
 main = "src/index.js"
+CUSTOM_DOMAIN = "docker.371723.xyz"
